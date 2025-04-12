@@ -1,7 +1,7 @@
 <h1>Hi, I'm VidhyaMahendran</h1>
 <p>🌱 Currently Exploring: I’m diving deep into HTML, CSS, JavaScript, Tailwind CSS, Python, React, Vue.js,<br>
   and SvelteKit to expand my frontend and full-stack development skills. ,<br>
-  🎓 Education: Completed my Bachelor of Computer Applications (BCA) from Bangalore Institute of Management Studies. ,<br>
+  🎓 Education: Completed my Bachelor of Computer Applications.(BCA) ,<br>
   📫 Get in Touch: You can reach me at vidhyamahendran19@gmail.com,<br>
   ⚡ Fun Fact: I love bringing creativity into everything I do—whether it's through cooking, drawing, or crafting beautiful user interfaces.</p>
 <h2>🚀 Languages and Tools I Use</h2>
